@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on researching rewiring models for the construction of complex networks 
+- 🌱 I’m currently learning about dynamics on complex networks
 <!--
 **MagAlexander/magalexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
